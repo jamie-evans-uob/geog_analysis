@@ -1,4 +1,6 @@
 
+## This is a test update of the 'in development' branch (#2)
+
 ### This file prepares a CSV with the total number of crimes of different types in each LSOA (2021 LSOAs) for a given year (2023). It does this by looping through monthly data for every police force in the country.
 
 # Police open data should be downloaded and unzipped into the input folder from: https://data.police.uk/data/. I have used data for every month of 2023, so there are 12 folders within the Input folder directory. I selected 'all forces' so there are approx. 40 spreadsheets within each sub-folder.
